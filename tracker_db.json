@@ -1,0 +1,15 @@
+{
+  "trackers": [
+    "google-analytics.com",
+    "googletagmanager.com",
+    "doubleclick.net",
+    "facebook.net",
+    "connect.facebook.net",
+    "ads.twitter.com",
+    "ads.linkedin.com",
+    "bing.com",
+    "yandex.ru",
+    "hotjar.com",
+    "cloudflareinsights.com"
+  ]
+}

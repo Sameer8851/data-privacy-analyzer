@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Privacy Analyzer</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Privacy Report</h1>
+
+      <div class="section">
+        <h3>Cookies Found</h3>
+        <div id="cookieData" class="box">Loading...</div>
+      </div>
+
+      <div class="section">
+        <h3>Loaded Scripts</h3>
+        <ul id="scriptList" class="script-list"></ul>
+      </div>
+
+      <div class="section">
+        <div id="privacyScore" class="score-box"></div>
+      </div>
+
+      <div class="section">
+        <h3>AI Explanation</h3>
+        <div id="explanationBox" class="box">Loading...</div>
+      </div>
+    </div>
+
+    <script src="popup.js"></script>
+  </body>
+</html>
